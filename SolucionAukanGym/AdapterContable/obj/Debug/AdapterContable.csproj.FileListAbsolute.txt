@@ -1,0 +1,10 @@
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterContable\obj\Debug\AdapterContable.csproj.AssemblyReference.cache
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterContable\obj\Debug\AdapterContable.csproj.CoreCompileInputs.cache
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterContable\bin\Debug\AdapterContable.exe.config
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterContable\bin\Debug\AdapterContable.exe
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterContable\bin\Debug\AdapterContable.pdb
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterContable\bin\Debug\Newtonsoft.Json.dll
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterContable\bin\Debug\Newtonsoft.Json.xml
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterContable\obj\Debug\AdapterC.37F7F591.Up2Date
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterContable\obj\Debug\AdapterContable.exe
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterContable\obj\Debug\AdapterContable.pdb

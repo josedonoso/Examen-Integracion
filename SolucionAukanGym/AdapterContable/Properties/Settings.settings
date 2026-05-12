@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AdapterContable.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AdapterContable_ContabilidadWS_ContabilidadService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:5001/ContabilidadService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

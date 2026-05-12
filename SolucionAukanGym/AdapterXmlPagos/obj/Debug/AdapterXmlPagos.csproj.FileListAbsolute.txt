@@ -1,0 +1,7 @@
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterXmlPagos\bin\Debug\AdapterXmlPagos.exe.config
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterXmlPagos\bin\Debug\AdapterXmlPagos.exe
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterXmlPagos\bin\Debug\AdapterXmlPagos.pdb
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterXmlPagos\obj\Debug\AdapterXmlPagos.csproj.AssemblyReference.cache
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterXmlPagos\obj\Debug\AdapterXmlPagos.csproj.CoreCompileInputs.cache
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterXmlPagos\obj\Debug\AdapterXmlPagos.exe
+C:\examen\insi-exam-main\SolucionAukanGym\AdapterXmlPagos\obj\Debug\AdapterXmlPagos.pdb

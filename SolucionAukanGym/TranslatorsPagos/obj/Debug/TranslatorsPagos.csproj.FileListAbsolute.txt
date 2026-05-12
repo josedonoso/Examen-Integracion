@@ -1,0 +1,10 @@
+C:\examen\insi-exam-main\SolucionAukanGym\TranslatorsPagos\obj\Debug\TranslatorsPagos.csproj.AssemblyReference.cache
+C:\examen\insi-exam-main\SolucionAukanGym\TranslatorsPagos\obj\Debug\TranslatorsPagos.csproj.CoreCompileInputs.cache
+C:\examen\insi-exam-main\SolucionAukanGym\TranslatorsPagos\bin\Debug\TranslatorsPagos.exe.config
+C:\examen\insi-exam-main\SolucionAukanGym\TranslatorsPagos\bin\Debug\TranslatorsPagos.exe
+C:\examen\insi-exam-main\SolucionAukanGym\TranslatorsPagos\bin\Debug\TranslatorsPagos.pdb
+C:\examen\insi-exam-main\SolucionAukanGym\TranslatorsPagos\bin\Debug\Newtonsoft.Json.dll
+C:\examen\insi-exam-main\SolucionAukanGym\TranslatorsPagos\bin\Debug\Newtonsoft.Json.xml
+C:\examen\insi-exam-main\SolucionAukanGym\TranslatorsPagos\obj\Debug\Translat.6809F92F.Up2Date
+C:\examen\insi-exam-main\SolucionAukanGym\TranslatorsPagos\obj\Debug\TranslatorsPagos.exe
+C:\examen\insi-exam-main\SolucionAukanGym\TranslatorsPagos\obj\Debug\TranslatorsPagos.pdb

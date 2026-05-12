@@ -1,0 +1,19 @@
+<Pagos fecha="2026-01-20">
+    <Pago>
+		<Rut>5111222-2</Rut>        
+        <Monto>25000</Monto>
+        <FormaPago>TD</FormaPago>
+        <CodigoAutorizacion>564895</CodigoAutorizacion>
+        <Tarjeta>8095</Tarjeta>
+    </Pago>
+    <Pago>        
+		<Rut>16111222-2</Rut>
+        <Monto>10000</Monto>
+        <FormaPago>EF</FormaPago>
+    </Pago>
+	<Pago>        
+		<Rut>17111222-2</Rut>
+        <Monto>20000</Monto>
+        <FormaPago>EF</FormaPago>
+    </Pago>
+</Pagos>
